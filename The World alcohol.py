@@ -1,7 +1,9 @@
 """
 Write a Pandas program to display the dimensions or shape of the World alcohol consumption dataset.
 Also extract the column names from the dataset.
+
 Test Data:
+
   Year       WHO region                Country Beverage Types  Display Value
 0  1986  Western Pacific               Viet Nam           Wine           0.00
 1  1986         Americas                Uruguay          Other           0.50
