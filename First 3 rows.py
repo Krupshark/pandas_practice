@@ -1,6 +1,8 @@
 """
 Write a Pandas program to get the first 3 rows of a given DataFrame.
+
 Sample Python dictionary data and list labels:
+
 exam_data = {'name': ['Anastasia', 'Dima', 'Katherine', 'James',
 'Emily', 'Michael', 'Matthew', 'Laura', 'Kevin', 'Jonas'],
 'score': [12.5, 9, 16.5, np.nan, 9, 20, 14.5, np.nan, 8, 19],
