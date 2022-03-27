@@ -11,6 +11,7 @@ exam_data = {'name': ['Anastasia', 'Dima', 'Katherine', 'James',
 labels = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j']
 
 Expected Output:
+
 First three rows of the data frame:
 attempts name qualify score
 a 1 Anastasia yes 12.5
